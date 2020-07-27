@@ -5,6 +5,7 @@ from . import views
 app_name= 'polls'
 
 # Ahora hay que apuntar el POLLS URL al ROOT URL
+#hola
 urlpatterns = [
     path('', views.IndexView.as_view(), name='index'),
     path('<int:pk>/', views.DetailView.as_view(), name='detail'),

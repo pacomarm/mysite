@@ -1,7 +1,9 @@
 # Proyect's Name
 **The LAKE-SHOW**
 
-###Hints
+### Hints
 * mysite with django dev
 * by Paco Marmolejo
 * :)
+
+>Peace and luv  
